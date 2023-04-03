@@ -1,8 +1,8 @@
 
 <p align="center">  
   <a href="https://youtu.be/WcA7GZuaN0A">
-    <img alt="Guru" height="300" src="https://cdn.jsdelivr.net/gh/Guru322/api@Guru/guru.jpg">
-    <h1 align="center">GURU-BOT</h1>
+    <img alt="Guru" height="300" src="https://64.media.tumblr.com/5da7d32ea7461a6d75d5a78a6da14495/b5ae0a625fb869ea-25/s400x600/7eefd2d0ba2b71c91cf8438b052347912e1c3e6f.pnj">
+    <h1 align="center">Chaos-King</h1>
   </a>
 </p>
 <p align="center">
@@ -16,7 +16,7 @@
 </p>
 
 ####  
-GURU-BOT- Simple Multi Device whatsapp bot.
+ChaosKing- Simple Multi Device whatsapp bot.
 
 ***
 
